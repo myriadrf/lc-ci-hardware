@@ -13,4 +13,4 @@ Licence
 
 LibreCelluar CI Hardware Mechanical Designs is copyright 2022 AB Open Ltd and provided under the Creative Commons Attribution 4.0 (CC BY 4.0) licence.
 
-.. _LibreCellular Documentation: https://librecellular.org/developer/hardware/index.html
+.. _LibreCellular Documentation: https://librecellular.org/developer/hardware/ci/index.html
